@@ -28,12 +28,6 @@ body *{
 #typing-container{
     display: flex;
 }
-.typing-container *{
-    font-size: 15px;
-}
-#typing-container *{
-    font-size: 15px;
-}
 .invisible{
     width: 0px;
     height: 0px;
